@@ -10,7 +10,7 @@ This project is far from ready, but in the works.. stay tuned
 
 [curl](https://curl.se/) + [rust](https://www.rust-lang.org/)
 
-[idea beind the project](https://codeberg.org/polarhive/ideas/src/branch/main/browser.md) 
+[idea behind the project](https://codeberg.org/polarhive/ideas/src/branch/main/browser.md) 
 
 ---
 This repo is hosted on [Codeberg](https://polarhive.ml/knowledge) & on GitHub as a READ-ONLY mirror.
